@@ -1,4 +1,3 @@
-# x-openwrt.github.io
 ## **OpenWrt下载说明**
 - 可在 [Cloud-Openwrt](https://openwrt.115115.xyz/)下载    `VMDK` 虚拟磁盘文件
 - 可直接使用系统内置的更新功能，可任意切换版本
